@@ -1,0 +1,21 @@
+/* Inserta tu código de la página contacto acá */
+@media screen and (max-width:768px) {  
+	footer {
+		background-color: #1a1a1a;
+    	padding: 15px 0;
+    	color: #fff;
+    	text-align: center;	
+		}
+	.mobile-footer h4{
+	    font-family: "Open Sans","Helvetica",Arial,sans-serif;
+	    }
+	.mobile-footer p{
+	    font-size: 1.2rem;
+	    }
+}
+@media screen and (max-width:940px) {  
+	.display-table-col{
+		top:-190px;
+	    float: right;
+		}
+}
